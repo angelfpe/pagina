@@ -1,12 +1,11 @@
-/* Estilo personalizado para el carrusel */
 .carousel-item img {
-    height: 500px; /* Ajusta esta altura según tus necesidades */
+    height: 500px; 
     object-fit: cover;
   }
   
-  /* Estilo personalizado para las imágenes de las tarjetas */
+
   .card-img-top {
-    height: 200px; /* Ajusta esta altura según tus necesidades */
+    height: 200px;
     object-fit: cover;
   }
   
